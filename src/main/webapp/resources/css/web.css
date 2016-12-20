@@ -1,0 +1,144 @@
+@CHARSET "UTF-8";
+
+body {
+	padding-top: 50px;
+	padding-bottom: 0px;
+	color: #5a5a5a;
+}
+
+.navbar .navbar-header a {
+	font-size: 24px;
+}
+
+.nav li {
+	font-size: 20px;
+}
+
+.navbar .dropdown-menu {
+	background-color: #101010;
+}
+
+.navbar .dropdown-menu li a {
+	color: #5357ac;
+}
+
+.carousel {
+	height: 1000px;
+	margin-bottom: 60px;
+}
+
+.carousel .item {
+	height: 1000px;
+	background-color: #000;
+}
+
+.carousel .item img {
+	width: 100%;
+}
+
+.carousel .item .carousel-caption {
+	font-size: 18px;
+	line-height: 26px;
+	margin-bottom: 10px;
+}
+
+.carousel .carousel-control span {
+	width: 30px;
+	height: 30px;
+	left: -2%;
+	top: 50%;
+}
+
+.content .summary {
+	text-align: center;
+	font-size: 17px;
+	line-height: 26px;
+}
+
+.feature-divider {
+	margin-top: 20px;
+}
+
+.content .tab-content .row {
+	margin-top: 20px;
+}
+
+.content .tab-content .row .col-md-7 {
+	margin-top: 60px;
+	padding: 50px;
+}
+
+.content .tab-content .content-header {
+	font-size: 50px;
+	color: #8000ff;
+}
+
+.content .tab-content .small-header {
+	font-size: 26px;
+	color: #808080;
+}
+
+.content .tab-content .lead {
+	line-height: 28px;
+}
+
+.content-footer {
+	background-color: black;
+	margin-top: 20px;
+}
+
+.footer-container {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.footer-container a {
+	color: #808080;
+	text-decoration: none;
+}
+.footer-container a:HOVER {
+	color: #61afaf;
+	text-decoration: none;
+}
+@media ( max-width : 1382px) { /* 1382pxΪ�豸(����)������� */
+	.summary {
+		padding-right: 3px;
+		padding-left: 3px;
+	}
+	.carousel {
+		height: 350px;
+		margin-bottom: 30px;
+	}
+	.carousel .item {
+		height: 350px;
+	}
+	.carousel img {
+		min-height: 300px;
+	}
+	.carousel-caption p {
+		font-size: 16px;
+		line-height: 1.4;
+	}
+	.feature-heading {
+		font-size: 34px;
+	}
+	.feature-heading .text-muted {
+		font-size: 22px;
+	}
+}
+
+@media ( min-width : 992px) {
+	.feature-heading {
+		margin-top: 120px;
+	}
+}
+
+.word-p{
+font-size:20px;
+color:#000000;
+}
+
+.word-content{
+     font-size:16px;
+	 color:#000000;
+}

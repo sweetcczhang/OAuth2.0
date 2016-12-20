@@ -1,0 +1,249 @@
+27468 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/js/jquery.min.js]
+27474 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/js/jquery.min.js
+27476 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/js/jquery.min.js]
+27476 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/js/jquery.min.js] are [/resources/**]
+27476 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/js/jquery.min.js] are {}
+27476 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/js/jquery.min.js] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27477 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/js/jquery.min.js] is: -1
+27468 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/css/common.css]
+27479 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/css/common.css
+27481 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/css/common.css]
+27481 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/css/common.css] are [/resources/**]
+27481 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/css/common.css] are {}
+27481 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/css/common.css] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27481 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/css/common.css] is: -1
+27474 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/css/reset.css
+27484 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/css/reset.css]
+27484 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/css/reset.css] are [/resources/**]
+27484 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/css/reset.css] are {}
+27484 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/css/reset.css] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27485 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/css/reset.css] is: -1
+27512 DEBUG [2016-12-20 21:50:39]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27512 DEBUG [2016-12-20 21:50:39]  Successfully completed request
+27521 DEBUG [2016-12-20 21:50:39]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27521 DEBUG [2016-12-20 21:50:39]  Successfully completed request
+27525 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/weibo.png]
+27526 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/Images/weibo.png
+27527 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/js/common.js]
+27527 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/js/common.js
+27528 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/Images/weibo.png]
+27528 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/Images/weibo.png] are [/resources/**]
+27528 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/Images/weibo.png] are {}
+27528 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/Images/weibo.png] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27528 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/js/common.js]
+27528 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/js/common.js] are [/resources/**]
+27528 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/js/common.js] are {}
+27528 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/js/common.js] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27528 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/js/common.js] is: -1
+27529 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/QQ.jpg]
+27529 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/Images/QQ.jpg
+27528 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/Images/weibo.png] is: -1
+27530 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/Images/QQ.jpg]
+27530 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/Images/QQ.jpg] are [/resources/**]
+27531 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/Images/QQ.jpg] are {}
+27531 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/Images/QQ.jpg] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27531 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/Images/QQ.jpg] is: -1
+27531 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/weixin.png]
+27532 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/Images/weixin.png
+27533 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/logo_bg.jpg]
+27533 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/Images/logo_bg.jpg
+27533 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/Images/weixin.png]
+27534 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/Images/weixin.png] are [/resources/**]
+27534 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/Images/weixin.png] are {}
+27534 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/Images/weixin.png] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27534 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/Images/weixin.png] is: -1
+27535 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/Images/logo_bg.jpg]
+27536 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/Images/logo_bg.jpg] are [/resources/**]
+27536 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/Images/logo_bg.jpg] are {}
+27538 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/Images/logo_bg.jpg] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27538 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/Images/logo_bg.jpg] is: -1
+27554 DEBUG [2016-12-20 21:50:39]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27554 DEBUG [2016-12-20 21:50:39]  Successfully completed request
+27592 DEBUG [2016-12-20 21:50:39]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/logowz.png]
+27592 DEBUG [2016-12-20 21:50:39]  Looking up handler method for path /resources/Images/logowz.png
+27626 DEBUG [2016-12-20 21:50:39]  Did not find handler method for [/resources/Images/logowz.png]
+27626 DEBUG [2016-12-20 21:50:39]  Matching patterns for request [/resources/Images/logowz.png] are [/resources/**]
+27626 DEBUG [2016-12-20 21:50:39]  URI Template variables for request [/resources/Images/logowz.png] are {}
+27626 DEBUG [2016-12-20 21:50:39]  Mapping [/resources/Images/logowz.png] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+27626 DEBUG [2016-12-20 21:50:39]  Last-Modified value for [/resources/Images/logowz.png] is: -1
+27668 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27668 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+27670 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27670 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+27672 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27673 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+27675 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27675 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+27699 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27699 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+27747 DEBUG [2016-12-20 21:50:40]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+27747 DEBUG [2016-12-20 21:50:40]  Successfully completed request
+2461766 DEBUG [2016-12-20 22:31:14]  DispatcherServlet with name 'springmvc' processing GET request for [/registers]
+2461772 DEBUG [2016-12-20 22:31:14]  Looking up handler method for path /registers
+2461776 DEBUG [2016-12-20 22:31:14]  Returning handler method [public java.lang.String com.zcc.oauth2.web.login.loginTestController.register(org.springframework.ui.Model)]
+2461777 DEBUG [2016-12-20 22:31:14]  Returning cached instance of singleton bean 'loginTestController'
+2461778 DEBUG [2016-12-20 22:31:14]  Last-Modified value for [/registers] is: -1
+2461837 DEBUG [2016-12-20 22:31:14]  Invoking afterPropertiesSet() on bean with name 'register'
+2461837 DEBUG [2016-12-20 22:31:14]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'register'; URL [/WEB-INF/jsp/register.jsp]] in DispatcherServlet with name 'springmvc'
+2461838 DEBUG [2016-12-20 22:31:14]  Added model object 'userBean' of type [com.zcc.oauth2.entity.UserBean] to request in view with name 'register'
+2461838 DEBUG [2016-12-20 22:31:14]  Added model object 'org.springframework.validation.BindingResult.userBean' of type [org.springframework.validation.BeanPropertyBindingResult] to request in view with name 'register'
+2461839 DEBUG [2016-12-20 22:31:14]  Forwarding to resource [/WEB-INF/jsp/register.jsp] in InternalResourceView 'register'
+2463474 DEBUG [2016-12-20 22:31:15]  No property editor [java.lang.LongEditor] found for type java.lang.Long according to 'Editor' suffix convention
+2463479 DEBUG [2016-12-20 22:31:15]  No property editor [java.lang.StringEditor] found for type java.lang.String according to 'Editor' suffix convention
+2463522 DEBUG [2016-12-20 22:31:15]  Successfully completed request
+2467750 DEBUG [2016-12-20 22:31:20]  DispatcherServlet with name 'springmvc' processing GET request for [/login]
+2467750 DEBUG [2016-12-20 22:31:20]  Looking up handler method for path /login
+2467751 DEBUG [2016-12-20 22:31:20]  Returning handler method [public java.lang.String com.zcc.oauth2.web.login.loginTestController.loginTest(javax.servlet.http.HttpServletRequest)]
+2467751 DEBUG [2016-12-20 22:31:20]  Returning cached instance of singleton bean 'loginTestController'
+2467753 DEBUG [2016-12-20 22:31:20]  Last-Modified value for [/login] is: -1
+2467754 DEBUG [2016-12-20 22:31:20]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'login'; URL [/WEB-INF/jsp/login.jsp]] in DispatcherServlet with name 'springmvc'
+2467754 DEBUG [2016-12-20 22:31:20]  Forwarding to resource [/WEB-INF/jsp/login.jsp] in InternalResourceView 'login'
+2467756 DEBUG [2016-12-20 22:31:20]  Successfully completed request
+2499082 DEBUG [2016-12-20 22:31:51]  DispatcherServlet with name 'springmvc' processing GET request for [/xweibo]
+2499082 DEBUG [2016-12-20 22:31:51]  Looking up handler method for path /xweibo
+2499083 DEBUG [2016-12-20 22:31:51]  Returning handler method [public void com.zcc.oauth2.web.weiboLogin.weiboOAuthController.weiboAuthorize(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws com.zcc.oauth2.weibo.model.WeiboException,java.io.IOException]
+2499083 DEBUG [2016-12-20 22:31:51]  Returning cached instance of singleton bean 'weiboOAuthController'
+2499083 DEBUG [2016-12-20 22:31:51]  Last-Modified value for [/xweibo] is: -1
+2499157 DEBUG [2016-12-20 22:31:51]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+2499157 DEBUG [2016-12-20 22:31:51]  Successfully completed request
+2505918 DEBUG [2016-12-20 22:31:58]  DispatcherServlet with name 'springmvc' processing GET request for [/happy]
+2505919 DEBUG [2016-12-20 22:31:58]  Looking up handler method for path /happy
+2505919 DEBUG [2016-12-20 22:31:58]  Returning handler method [public java.lang.Object com.zcc.oauth2.web.weiboLogin.weiboController.weibo(org.springframework.ui.Model,javax.servlet.http.HttpServletRequest)]
+2505919 DEBUG [2016-12-20 22:31:58]  Returning cached instance of singleton bean 'weiboController'
+2505919 DEBUG [2016-12-20 22:31:58]  Last-Modified value for [/happy] is: -1
+2505969 DEBUG [2016-12-20 22:31:58]  Request:
+2505969 DEBUG [2016-12-20 22:31:58]  POSThttps://api.weibo.com/oauth2/access_token
+2506006 DEBUG [2016-12-20 22:31:58]  Resolving exception from handler [public java.lang.Object com.zcc.oauth2.web.weiboLogin.weiboController.weibo(org.springframework.ui.Model,javax.servlet.http.HttpServletRequest)]: java.lang.IllegalArgumentException: Arguments to addParameter(String, String) cannot be null
+2506009 DEBUG [2016-12-20 22:31:58]  Resolving exception from handler [public java.lang.Object com.zcc.oauth2.web.weiboLogin.weiboController.weibo(org.springframework.ui.Model,javax.servlet.http.HttpServletRequest)]: java.lang.IllegalArgumentException: Arguments to addParameter(String, String) cannot be null
+2506009 DEBUG [2016-12-20 22:31:58]  Resolving exception from handler [public java.lang.Object com.zcc.oauth2.web.weiboLogin.weiboController.weibo(org.springframework.ui.Model,javax.servlet.http.HttpServletRequest)]: java.lang.IllegalArgumentException: Arguments to addParameter(String, String) cannot be null
+2506011 DEBUG [2016-12-20 22:31:58]  Could not complete request
+java.lang.IllegalArgumentException: Arguments to addParameter(String, String) cannot be null
+	at org.apache.commons.httpclient.methods.PostMethod.addParameter(PostMethod.java:268)
+	at com.zcc.oauth2.weibo.http.HttpClient.post(HttpClient.java:239)
+	at com.zcc.oauth2.weibo.weibo4j.Oauth.getAccessTokenByCode(Oauth.java:86)
+	at com.zcc.oauth2.web.weiboLogin.weiboController.weibo(weiboController.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:215)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:781)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:721)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:83)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:857)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:669)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1336)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:255)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:154)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2546562 DEBUG [2016-12-20 22:32:38]  DispatcherServlet with name 'springmvc' processing GET request for [/registers]
+2546562 DEBUG [2016-12-20 22:32:38]  Looking up handler method for path /registers
+2546562 DEBUG [2016-12-20 22:32:38]  Returning handler method [public java.lang.String com.zcc.oauth2.web.login.loginTestController.register(org.springframework.ui.Model)]
+2546562 DEBUG [2016-12-20 22:32:38]  Returning cached instance of singleton bean 'loginTestController'
+2546563 DEBUG [2016-12-20 22:32:38]  Last-Modified value for [/registers] is: -1
+2546564 DEBUG [2016-12-20 22:32:38]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'register'; URL [/WEB-INF/jsp/register.jsp]] in DispatcherServlet with name 'springmvc'
+2546564 DEBUG [2016-12-20 22:32:38]  Added model object 'userBean' of type [com.zcc.oauth2.entity.UserBean] to request in view with name 'register'
+2546564 DEBUG [2016-12-20 22:32:38]  Added model object 'org.springframework.validation.BindingResult.userBean' of type [org.springframework.validation.BeanPropertyBindingResult] to request in view with name 'register'
+2546564 DEBUG [2016-12-20 22:32:38]  Forwarding to resource [/WEB-INF/jsp/register.jsp] in InternalResourceView 'register'
+2546576 DEBUG [2016-12-20 22:32:38]  Successfully completed request
+2548272 DEBUG [2016-12-20 22:32:40]  DispatcherServlet with name 'springmvc' processing GET request for [/login]
+2548848 DEBUG [2016-12-20 22:32:41]  Looking up handler method for path /login
+2548848 DEBUG [2016-12-20 22:32:41]  Returning handler method [public java.lang.String com.zcc.oauth2.web.login.loginTestController.loginTest(javax.servlet.http.HttpServletRequest)]
+2548848 DEBUG [2016-12-20 22:32:41]  Returning cached instance of singleton bean 'loginTestController'
+2548848 DEBUG [2016-12-20 22:32:41]  Last-Modified value for [/login] is: -1
+2548849 DEBUG [2016-12-20 22:32:41]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'login'; URL [/WEB-INF/jsp/login.jsp]] in DispatcherServlet with name 'springmvc'
+2548850 DEBUG [2016-12-20 22:32:41]  Forwarding to resource [/WEB-INF/jsp/login.jsp] in InternalResourceView 'login'
+2548854 DEBUG [2016-12-20 22:32:41]  Successfully completed request
+2558286 DEBUG [2016-12-20 22:32:50]  DispatcherServlet with name 'springmvc' processing GET request for [/change/documentController]
+2558286 DEBUG [2016-12-20 22:32:50]  Looking up handler method for path /change/documentController
+2558287 DEBUG [2016-12-20 22:32:50]  Returning handler method [public java.lang.String com.zcc.oauth2.web.changer.ChangerController.changeToDocuments(javax.servlet.http.HttpServletRequest)]
+2558287 DEBUG [2016-12-20 22:32:50]  Returning cached instance of singleton bean 'changerController'
+2558287 DEBUG [2016-12-20 22:32:50]  Last-Modified value for [/change/documentController] is: -1
+2558289 DEBUG [2016-12-20 22:32:50]  Invoking afterPropertiesSet() on bean with name 'documents'
+2558289 DEBUG [2016-12-20 22:32:50]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'documents'; URL [/WEB-INF/jsp/documents.jsp]] in DispatcherServlet with name 'springmvc'
+2558289 DEBUG [2016-12-20 22:32:50]  Forwarding to resource [/WEB-INF/jsp/documents.jsp] in InternalResourceView 'documents'
+2558935 DEBUG [2016-12-20 22:32:51]  Successfully completed request
+2558956 DEBUG [2016-12-20 22:32:51]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/access_token.jpg]
+2558956 DEBUG [2016-12-20 22:32:51]  DispatcherServlet with name 'springmvc' processing GET request for [/resources/Images/oauth2-process.png]
+2558956 DEBUG [2016-12-20 22:32:51]  Looking up handler method for path /resources/Images/access_token.jpg
+2558956 DEBUG [2016-12-20 22:32:51]  Looking up handler method for path /resources/Images/oauth2-process.png
+2558960 DEBUG [2016-12-20 22:32:51]  Did not find handler method for [/resources/Images/access_token.jpg]
+2558960 DEBUG [2016-12-20 22:32:51]  Did not find handler method for [/resources/Images/oauth2-process.png]
+2558960 DEBUG [2016-12-20 22:32:51]  Matching patterns for request [/resources/Images/access_token.jpg] are [/resources/**]
+2558960 DEBUG [2016-12-20 22:32:51]  Matching patterns for request [/resources/Images/oauth2-process.png] are [/resources/**]
+2558960 DEBUG [2016-12-20 22:32:51]  URI Template variables for request [/resources/Images/oauth2-process.png] are {}
+2558960 DEBUG [2016-12-20 22:32:51]  URI Template variables for request [/resources/Images/access_token.jpg] are {}
+2558960 DEBUG [2016-12-20 22:32:51]  Mapping [/resources/Images/oauth2-process.png] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+2558960 DEBUG [2016-12-20 22:32:51]  Mapping [/resources/Images/access_token.jpg] to HandlerExecutionChain with handler [ResourceHttpRequestHandler [locations=[ServletContext resource [/resources/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@5afbbf9b]]] and 1 interceptor
+2558960 DEBUG [2016-12-20 22:32:51]  Last-Modified value for [/resources/Images/access_token.jpg] is: -1
+2558960 DEBUG [2016-12-20 22:32:51]  Last-Modified value for [/resources/Images/oauth2-process.png] is: -1
+2558966 DEBUG [2016-12-20 22:32:51]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+2558966 DEBUG [2016-12-20 22:32:51]  Successfully completed request
+2558972 DEBUG [2016-12-20 22:32:51]  Null ModelAndView returned to DispatcherServlet with name 'springmvc': assuming HandlerAdapter completed request handling
+2558972 DEBUG [2016-12-20 22:32:51]  Successfully completed request
+2562147 DEBUG [2016-12-20 22:32:54]  DispatcherServlet with name 'springmvc' processing GET request for [/change/managerController]
+2562147 DEBUG [2016-12-20 22:32:54]  Looking up handler method for path /change/managerController
+2562148 DEBUG [2016-12-20 22:32:54]  Returning handler method [public java.lang.String com.zcc.oauth2.web.changer.ChangerController.changeToManager(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)]
+2562148 DEBUG [2016-12-20 22:32:54]  Returning cached instance of singleton bean 'changerController'
+2562148 DEBUG [2016-12-20 22:32:54]  Last-Modified value for [/change/managerController] is: -1
+2562152 DEBUG [2016-12-20 22:32:54]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'login'; URL [/WEB-INF/jsp/login.jsp]] in DispatcherServlet with name 'springmvc'
+2562152 DEBUG [2016-12-20 22:32:54]  Forwarding to resource [/WEB-INF/jsp/login.jsp] in InternalResourceView 'login'
+2562154 DEBUG [2016-12-20 22:32:54]  Successfully completed request
+2565460 DEBUG [2016-12-20 22:32:57]  DispatcherServlet with name 'springmvc' processing GET request for [/change/indexController]
+2565460 DEBUG [2016-12-20 22:32:57]  Looking up handler method for path /change/indexController
+2565460 DEBUG [2016-12-20 22:32:57]  Returning handler method [public java.lang.String com.zcc.oauth2.web.changer.ChangerController.changeToIndex(javax.servlet.http.HttpServletRequest)]
+2565461 DEBUG [2016-12-20 22:32:57]  Returning cached instance of singleton bean 'changerController'
+2565461 DEBUG [2016-12-20 22:32:57]  Last-Modified value for [/change/indexController] is: -1
+2565466 DEBUG [2016-12-20 22:32:57]  Invoking afterPropertiesSet() on bean with name 'redirect:/'
+2565466 DEBUG [2016-12-20 22:32:57]  Rendering view [org.springframework.web.servlet.view.RedirectView: name 'redirect:/'; URL [/]] in DispatcherServlet with name 'springmvc'
+2565468 DEBUG [2016-12-20 22:32:57]  Successfully completed request
+2565474 DEBUG [2016-12-20 22:32:57]  DispatcherServlet with name 'springmvc' processing GET request for [/]
+2565474 DEBUG [2016-12-20 22:32:57]  Looking up handler method for path /
+2565474 DEBUG [2016-12-20 22:32:57]  Returning handler method [public java.lang.Object com.zcc.oauth2.web.login.showLoginController.showloginForm(javax.servlet.http.HttpServletRequest)]
+2565474 DEBUG [2016-12-20 22:32:57]  Returning cached instance of singleton bean 'showLoginController'
+2565474 DEBUG [2016-12-20 22:32:57]  Last-Modified value for [/] is: -1
+2565475 DEBUG [2016-12-20 22:32:57]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'index'; URL [/WEB-INF/jsp/index.jsp]] in DispatcherServlet with name 'springmvc'
+2565475 DEBUG [2016-12-20 22:32:57]  Forwarding to resource [/WEB-INF/jsp/index.jsp] in InternalResourceView 'index'
+2565480 DEBUG [2016-12-20 22:32:57]  Successfully completed request
+2573458 DEBUG [2016-12-20 22:33:05]  DispatcherServlet with name 'springmvc' processing GET request for [/registers]
+2573459 DEBUG [2016-12-20 22:33:05]  Looking up handler method for path /registers
+2573459 DEBUG [2016-12-20 22:33:05]  Returning handler method [public java.lang.String com.zcc.oauth2.web.login.loginTestController.register(org.springframework.ui.Model)]
+2573459 DEBUG [2016-12-20 22:33:05]  Returning cached instance of singleton bean 'loginTestController'
+2573459 DEBUG [2016-12-20 22:33:05]  Last-Modified value for [/registers] is: -1
+2573460 DEBUG [2016-12-20 22:33:05]  Rendering view [org.springframework.web.servlet.view.JstlView: name 'register'; URL [/WEB-INF/jsp/register.jsp]] in DispatcherServlet with name 'springmvc'
+2573460 DEBUG [2016-12-20 22:33:05]  Added model object 'userBean' of type [com.zcc.oauth2.entity.UserBean] to request in view with name 'register'
+2573461 DEBUG [2016-12-20 22:33:05]  Added model object 'org.springframework.validation.BindingResult.userBean' of type [org.springframework.validation.BeanPropertyBindingResult] to request in view with name 'register'
+2573461 DEBUG [2016-12-20 22:33:05]  Forwarding to resource [/WEB-INF/jsp/register.jsp] in InternalResourceView 'register'
+2573468 DEBUG [2016-12-20 22:33:05]  Successfully completed request
